@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1227df93-d723-4d59-a018-bd47bca5d9e5" name="Default Changelist" comment="" />
+    <list default="true" id="1227df93-d723-4d59-a018-bd47bca5d9e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/webapp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/domain/target/" />
@@ -76,6 +78,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Properties" value="3" />
           <entry key="XML" value="13" />
           <entry key="YAML" value="78" />
         </counts>
@@ -97,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webapp/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+            <state relative-caret-position="85">
+              <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -247,11 +250,11 @@
         <option value="$PROJECT_DIR$/webapp/src/main/java/WebSecurityConfiguration.java" />
         <option value="$PROJECT_DIR$/webapp/src/main/resources/index.html" />
         <option value="$PROJECT_DIR$/webapp/src/main/java/com/springstore/WebSecurityConfiguration.java" />
-        <option value="$PROJECT_DIR$/webapp/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/webapp/pom.xml" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/webapp/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -469,7 +472,7 @@
       <workItem from="1545182385283" duration="718000" />
       <workItem from="1545218476636" duration="408000" />
       <workItem from="1545219445381" duration="2835000" />
-      <workItem from="1545241330868" duration="4449000" />
+      <workItem from="1545241330868" duration="5042000" />
     </task>
     <servers />
   </component>
@@ -491,10 +494,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20496000" />
+    <option name="totallyTimeSpent" value="21089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984985" visible="true" weight="0.19669509" />
       <window_info id="Structure" order="1" sideWeight="0.5015015" side_tool="true" weight="0.1881663" />
@@ -714,8 +718,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+        <state relative-caret-position="85">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
         </state>
       </provider>
     </entry>
