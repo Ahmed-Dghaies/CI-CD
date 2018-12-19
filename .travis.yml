@@ -16,6 +16,9 @@ addons:
 
 sudo: required
 
+before_install:
+- mysql -e 'CREATE DATABASE IF NOT EXISTS ecommercedb;'
+
 after_success:
 - docker login -u "ahmed1dghaies" -p $DOCKER_PASS
 - export TAG=`if [ "$TRAVIS_BRANCH" == "master" ]; then echo "latest"; else echo $TRAVIS_BRANCH; fi`
@@ -27,7 +30,7 @@ after_success:
 services:
 - docker
 - mysql
-  
+
 script:
 - java -version
 - echo $JAVA_HOME
