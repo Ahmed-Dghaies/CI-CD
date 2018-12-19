@@ -1,9 +1,11 @@
 language: java
-jdk: oraclejdk8
+jdk:
+  - openjdk7
+  - oraclejdk8
 
 env:
   global:
-  - secure: "....encrypted sonar token here....."
+  - secure: "8bd6d530c4599ea6b8ed83fae55f46dc4e4fbf48"
 
 addons:
   sonarcloud:
