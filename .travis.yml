@@ -30,8 +30,8 @@ services:
 script:
 - java -version
 - echo $JAVA_HOME
-- clean install -B
-- clean org.jacoco:jacoco-maven-plugin:prepare-agent package sonar:sonar
+- mvn clean install -B
+- mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent package sonar:sonar
 
 deploy:
   provider: heroku
