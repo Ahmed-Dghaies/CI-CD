@@ -28,7 +28,9 @@ services:
 - docker
 
 script:
-- ./mvnw clean install
+- java -version
+- echo $JAVA_HOME
+- ./mvnw clean install -B
 - ./mvnw clean org.jacoco:jacoco-maven-plugin:prepare-agent package sonar:sonar
 
 deploy:
