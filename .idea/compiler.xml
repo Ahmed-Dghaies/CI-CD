@@ -11,15 +11,15 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="domain" target="1.8" />
-      <module name="spring-boot-bookstore" target="1.8" />
-      <module name="webapp" target="1.8" />
+      <module name="domain" target="1.7" />
+      <module name="spring-boot-bookstore" target="1.7" />
+      <module name="webapp" target="1.7" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="domain" options="-parameters" />
-      <module name="spring-boot-bookstore" options="-parameters" />
+      <module name="spring-boot-bookstore" options="" />
       <module name="webapp" options="-parameters" />
     </option>
   </component>
