@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* spring-boot-bookstore
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* webapp
