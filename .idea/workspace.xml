@@ -80,7 +80,7 @@
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="Properties" value="3" />
           <entry key="XML" value="13" />
-          <entry key="YAML" value="101" />
+          <entry key="YAML" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -118,8 +118,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+            <state relative-caret-position="102">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -472,7 +472,7 @@
       <workItem from="1545182385283" duration="718000" />
       <workItem from="1545218476636" duration="408000" />
       <workItem from="1545219445381" duration="2835000" />
-      <workItem from="1545241330868" duration="6534000" />
+      <workItem from="1545241330868" duration="7383000" />
     </task>
     <servers />
   </component>
@@ -494,7 +494,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22581000" />
+    <option name="totallyTimeSpent" value="23430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -718,8 +718,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>

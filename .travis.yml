@@ -4,13 +4,15 @@ jdk:
   - oraclejdk7
   - oraclejdk8
 
+dist: trusty
+
 env:
   global:
   - secure: "8bd6d530c4599ea6b8ed83fae55f46dc4e4fbf48"
 
 addons:
   sonarcloud:
-    organization: "sivaprasadreddy-github"
+    organization: "ahmed-dghaies-github"
     token:
       secure: "3cdadc04e56c545644e406dec0df9af1653d65b3"
 
